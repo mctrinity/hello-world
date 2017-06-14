@@ -1,0 +1,108 @@
+h1 {
+    font-size: 35px;
+    margin-top: 60px;
+}
+
+h2 {
+    font-size: 27px;
+    margin-top: 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    max-width: 700px;
+}
+
+body {
+    font-family: bitter, Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px;
+    background-image: url(../images/autumn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+a:link {
+    color: rgb(232, 58, 232);
+}
+
+a:visited {
+    color: aqua;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: fuchsia;
+}
+
+figure {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0
+}
+
+li {
+    margin-bottom: 5px;
+    
+}
+
+caption {
+    font-size: 27px;
+    margin-top: 40px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    
+}
+
+th {
+    text-align: left;
+    padding-right: 30px;
+}
+
+td {
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+input {
+    margin-left: 10px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(247,247,247);
+}
+
+textarea {
+    border: none;
+    background-color: rgb(247,247,247);
+}
+
+fieldset {
+    width: 440px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    font-family: bitter, Helvetica, Arial, sans-serif;
+    background-color: palevioletred;
+    color: white;
+}
+
+button:hover {
+    background-color: darkred;
+}
+
